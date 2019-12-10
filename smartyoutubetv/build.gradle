@@ -108,6 +108,11 @@ android {
             matchingFallbacks = ['lite']
             versionCode 9400 + defaultConfig.versionCode
         }
+        Vbolshoetv2 {
+            // NV501
+            matchingFallbacks = ['full']
+            versionCode 9400 + defaultConfig.versionCode
+        }
         Vfakeyoutube {
             matchingFallbacks = ['lite']
             versionCode 9400 + defaultConfig.versionCode
